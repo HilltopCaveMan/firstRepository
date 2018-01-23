@@ -3,3 +3,9 @@ F:\业余\Test\CZBK.ItcastOA\CZBK.ItcastOA\bin\CZBK.ItcastOA.dll
 F:\业余\Test\CZBK.ItcastOA\CZBK.ItcastOA\bin\CZBK.ItcastOA.pdb
 F:\业余\Test\CZBK.ItcastOA\CZBK.ItcastOA\obj\Debug\CZBK.ItcastOA.dll
 F:\业余\Test\CZBK.ItcastOA\CZBK.ItcastOA\obj\Debug\CZBK.ItcastOA.pdb
+F:\业余\Test1\CZBK.ItcastOA\CZBK.ItcastOA\bin\CZBK.ItcastOA.dll.config
+F:\业余\Test1\CZBK.ItcastOA\CZBK.ItcastOA\bin\CZBK.ItcastOA.dll
+F:\业余\Test1\CZBK.ItcastOA\CZBK.ItcastOA\bin\CZBK.ItcastOA.pdb
+F:\业余\Test1\CZBK.ItcastOA\CZBK.ItcastOA\obj\Debug\CZBK.ItcastOA.csprojResolveAssemblyReference.cache
+F:\业余\Test1\CZBK.ItcastOA\CZBK.ItcastOA\obj\Debug\CZBK.ItcastOA.dll
+F:\业余\Test1\CZBK.ItcastOA\CZBK.ItcastOA\obj\Debug\CZBK.ItcastOA.pdb

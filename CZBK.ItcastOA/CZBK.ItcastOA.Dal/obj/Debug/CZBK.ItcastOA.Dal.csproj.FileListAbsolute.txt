@@ -1,0 +1,6 @@
+F:\业余\Test1\CZBK.ItcastOA\CZBK.ItcastOA.Dal\bin\CZBK.ItcastOA.Dal.dll.config
+F:\业余\Test1\CZBK.ItcastOA\CZBK.ItcastOA.Dal\bin\CZBK.ItcastOA.Dal.dll
+F:\业余\Test1\CZBK.ItcastOA\CZBK.ItcastOA.Dal\bin\CZBK.ItcastOA.Dal.pdb
+F:\业余\Test1\CZBK.ItcastOA\CZBK.ItcastOA.Dal\obj\Debug\CZBK.ItcastOA.Dal.csprojResolveAssemblyReference.cache
+F:\业余\Test1\CZBK.ItcastOA\CZBK.ItcastOA.Dal\obj\Debug\CZBK.ItcastOA.Dal.dll
+F:\业余\Test1\CZBK.ItcastOA\CZBK.ItcastOA.Dal\obj\Debug\CZBK.ItcastOA.Dal.pdb
